@@ -6,102 +6,20 @@
 </description>
 	<link>http://localhost:4000/</link>
 	<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-	<pubDate>Tue, 25 Mar 2025 15:45:54 -0700</pubDate>
-	<lastBuildDate>Tue, 25 Mar 2025 15:45:54 -0700</lastBuildDate>
+	<pubDate>Wed, 28 May 2025 14:42:09 -0700</pubDate>
+	<lastBuildDate>Wed, 28 May 2025 14:42:09 -0700</lastBuildDate>
 	<generator>Jekyll v4.3.4</generator>
 
 	
 
 		<item>
-			<title>Dieteria bigelovii var. commixta</title>
+			<title>Ferocactus cylindraceus</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Mon, 24 Mar 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-perennials/dieteria-bigelovii-commixta.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-perennials/dieteria-bigelovii-commixta.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Aspen Bluebells</title>
-			<description>
-</description>
-			<pubDate>Fri, 21 Mar 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-trees/parkinsonia-florida.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-trees/parkinsonia-florida.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Penstemon rydbergii</title>
-			<description>&lt;p&gt;&lt;/p&gt;
-
-</description>
-			<pubDate>Tue, 18 Mar 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-perennials/penstemon-rydbergii.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-perennials/penstemon-rydbergii.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Aspen Bluebells</title>
-			<description>
-</description>
-			<pubDate>Tue, 18 Mar 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-perennials/mertensia-arizonica.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-perennials/mertensia-arizonica.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>First Creek</title>
-			<description>&lt;p&gt;&lt;/p&gt;
-</description>
-			<pubDate>Thu, 20 Feb 2025 00:00:00 -0800</pubDate>
-			<link>http://localhost:4000/mojave-birding-hotspots/first-creek-trail.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-birding-hotspots/first-creek-trail.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Long-tailed Duck</title>
-			<description>&lt;p&gt;
-.&lt;/p&gt;
-</description>
-			<pubDate>Sat, 11 Jan 2025 00:00:00 -0800</pubDate>
-			<link>http://localhost:4000/mojave-birds/anseriformes/long-tailed-duck.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-birds/anseriformes/long-tailed-duck.html</guid>
+			<pubDate>Wed, 16 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-cactus/ferocactus-cylindraceus.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-cactus/ferocactus-cylindraceus.html</guid>
 
 			
 
@@ -116,7 +34,7 @@
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Thu, 14 Mar 2024 00:00:00 -0700</pubDate>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
 			<link>http://localhost:4000/mojave-plants-annuals/phacelia-fremontii.html</link>
 			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/phacelia-fremontii.html</guid>
 
@@ -129,47 +47,13 @@
 	
 
 		<item>
-			<title>Welcome to Jekyll!</title>
-			<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+			<title>Lactuca serriola</title>
+			<description>&lt;p&gt;Lactuca serriola is native to the Mediterranean region and occurs along roadsides, in abandoned fields, and other disturbed areas. It was accidentally introduced into North America in the late 1890s, possibly as a contaminant in seed. Lactuca serriola is known as the compass plant because in the sun the upper leaves twist round to hold their margins upright, pointing roughly south or north from the stem. It can be eaten as a salad, although it has something of a bitter taste. Young leaves can be eaten raw or cooked.&lt;/p&gt;
 
 </description>
-			<pubDate>Mon, 03 Oct 2016 18:41:07 -0700</pubDate>
-			<link>http://localhost:4000/jekyll/update/2016/10/03/welcome-to-jekyll.html</link>
-			<guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/10/03/welcome-to-jekyll.html</guid>
-
-			
-
-			
-				<category>jekyll</category>
-			
-				<category>update</category>
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Lorem ipsum dolor</title>
-			<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta temporibus quis voluptatem numquam quisquam, placeat, aut sit, non porro, nulla ea ullam voluptas. Illo numquam, autem esse, ad tempora in. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat.&lt;/p&gt;
-
-&lt;p&gt;Nullam placerat turpis sit amet ipsum porttitor tincidunt. Nunc suscipit rutrum neque sit amet maximus. Morbi sit amet ornare sem, vitae maximus nisi. Fusce risus risus, ornare a ante a, varius semper nunc. Vestibulum dictum facilisis nisi, in porttitor est consequat non. Fusce luctus quis leo pretium efficitur ac et est. Cras feugiat velit nibh, eu posuere arcu suscipit rhoncus. Donec ac pretium ipsum. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat. Pellentesque eget consequat nibh. Pellentesque a sem velit. Pellentesque ultrices mi orci, non suscipit massa condimentum a. Nulla eget dolor non est posuere congue in ac nunc. Cras placerat, ex eu consectetur faucibus, dolor elit imperdiet massa, nec pulvinar tortor sapien et diam. Curabitur nec lacus sed nibh porta suscipit. Donec egestas, mi at gravida pretium, quam est venenatis velit, non dictum libero nulla ac odio. Aliquam erat volutpat. Nulla facilisi. Pellentesque id tincidunt, at faucibus enim. Proin diam elit, laoreet id neque dapibus, venenatis commodo leo. Ut pellentesque at arcu eu sodales. Aliquam tempus venenatis ipsum ut dignissim. In eget tellus eu nunc iaculis pharetra.&lt;/p&gt;
-</description>
-			<pubDate>Thu, 22 Sep 2016 18:41:07 -0700</pubDate>
-			<link>http://localhost:4000/2016/09/22/lorem-ipsum-dolor.html</link>
-			<guid isPermaLink="true">http://localhost:4000/2016/09/22/lorem-ipsum-dolor.html</guid>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-annuals/lactuca-serriola.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/lactuca-serriola.html</guid>
 
 			
 
@@ -180,14 +64,115 @@
 	
 
 		<item>
-			<title>Amet consectetur</title>
-			<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta temporibus quis voluptatem numquam quisquam, placeat, aut sit, non porro, nulla ea ullam voluptas. Illo numquam, autem esse, ad tempora in. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat.&lt;/p&gt;
+			<title>Cirsium clavatum var americanum</title>
+			<description>&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;Nullam placerat turpis sit amet ipsum porttitor tincidunt. Nunc suscipit rutrum neque sit amet maximus. Morbi sit amet ornare sem, vitae maximus nisi. Fusce risus risus, ornare a ante a, varius semper nunc. Vestibulum dictum facilisis nisi, in porttitor est consequat non. Fusce luctus quis leo pretium efficitur ac et est. Cras feugiat velit nibh, eu posuere arcu suscipit rhoncus. Donec ac pretium ipsum. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat. Pellentesque eget consequat nibh. Pellentesque a sem velit. Pellentesque ultrices mi orci, non suscipit massa condimentum a. Nulla eget dolor non est posuere congue in ac nunc. Cras placerat, ex eu consectetur faucibus, dolor elit imperdiet massa, nec pulvinar tortor sapien et diam. Curabitur nec lacus sed nibh porta suscipit. Donec egestas, mi at gravida pretium, quam est venenatis velit, non dictum libero nulla ac odio. Aliquam erat volutpat. Nulla facilisi. Pellentesque id tincidunt, at faucibus enim. Proin diam elit, laoreet id neque dapibus, venenatis commodo leo. Ut pellentesque at arcu eu sodales. Aliquam tempus venenatis ipsum ut dignissim. In eget tellus eu nunc iaculis pharetra.&lt;/p&gt;
 </description>
-			<pubDate>Fri, 09 Sep 2016 18:41:07 -0700</pubDate>
-			<link>http://localhost:4000/2016/09/09/amet-consectetur.html</link>
-			<guid isPermaLink="true">http://localhost:4000/2016/09/09/amet-consectetur.html</guid>
+			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-perennials/cirsium-clavatum.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-perennials/cirsium-clavatum.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Verbascum thapsus</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-perennials/verbascum-thapsus.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-perennials/verbascum-thapsus.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Thelypodium integrifolium</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-perennials/thelypodium-integrifolium.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-perennials/thelypodium-integrifolium.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Stanleya pinnata</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-perennials/stanleya-pinnata.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-perennials/stanleya-pinnata.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Solidago multiradiata</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-perennials/solidago-multiradiata.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-perennials/solidago-multiradiata.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Senna covesii</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-perennials/senna-covesii.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-perennials/senna-covesii.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Rumex obtusifolius</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-perennials/rumex-obtusifolius.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-perennials/rumex-obtusifolius.html</guid>
 
 			
 
