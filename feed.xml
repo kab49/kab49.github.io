@@ -6,8 +6,8 @@
 </description>
 	<link>http://example.com/</link>
 	<atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-	<pubDate>Sun, 08 Jun 2025 15:33:17 -0700</pubDate>
-	<lastBuildDate>Sun, 08 Jun 2025 15:33:17 -0700</lastBuildDate>
+	<pubDate>Fri, 13 Jun 2025 17:51:07 -0700</pubDate>
+	<lastBuildDate>Fri, 13 Jun 2025 17:51:07 -0700</lastBuildDate>
 	<generator>Jekyll v4.3.4</generator>
 
 	
@@ -64,6 +64,23 @@
 	
 
 		<item>
+			<title>Phacelia crenulata</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://example.com/mojave-plants-annuals/phacelia-crenulata.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-plants-annuals/phacelia-crenulata.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
 			<title>Pectis papposa</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
@@ -88,6 +105,23 @@
 			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
 			<link>http://example.com/mojave-plants-annuals/malacothrix-glabrata.html</link>
 			<guid isPermaLink="true">http://example.com/mojave-plants-annuals/malacothrix-glabrata.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Langloisia setosissima sub. setosissima</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://example.com/mojave-plants-annuals/langloisia-setosissima.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-plants-annuals/langloisia-setosissima.html</guid>
 
 			
 
@@ -139,40 +173,6 @@
 			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
 			<link>http://example.com/mojave-plants-perennials/cirsium-clavatum.html</link>
 			<guid isPermaLink="true">http://example.com/mojave-plants-perennials/cirsium-clavatum.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Thelypodium integrifolium</title>
-			<description>&lt;p&gt;&lt;/p&gt;
-
-</description>
-			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-perennials/thelypodium-integrifolium.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-perennials/thelypodium-integrifolium.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Stanleya pinnata</title>
-			<description>&lt;p&gt;&lt;/p&gt;
-
-</description>
-			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-perennials/stanleya-pinnata.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-perennials/stanleya-pinnata.html</guid>
 
 			
 
