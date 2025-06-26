@@ -4,28 +4,11 @@
 	<title>Mojave Nature</title>
 	<description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-	<link>http://example.com/</link>
-	<atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-	<pubDate>Fri, 13 Jun 2025 17:51:07 -0700</pubDate>
-	<lastBuildDate>Fri, 13 Jun 2025 17:51:07 -0700</lastBuildDate>
+	<link>http://localhost:4000/</link>
+	<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+	<pubDate>Thu, 26 Jun 2025 13:02:19 -0700</pubDate>
+	<lastBuildDate>Thu, 26 Jun 2025 13:02:19 -0700</lastBuildDate>
 	<generator>Jekyll v4.3.4</generator>
-
-	
-
-		<item>
-			<title>Ferocactus cylindraceus</title>
-			<description>&lt;p&gt;&lt;/p&gt;
-
-</description>
-			<pubDate>Wed, 16 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-cactus/ferocactus-cylindraceus.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-cactus/ferocactus-cylindraceus.html</guid>
-
-			
-
-			
-
-		</item>
 
 	
 
@@ -35,8 +18,8 @@
 
 </description>
 			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-annuals/rafinesquia-neomexicana.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-annuals/rafinesquia-neomexicana.html</guid>
+			<link>http://localhost:4000/mojave-plants-annuals/rafinesquia-neomexicana.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/rafinesquia-neomexicana.html</guid>
 
 			
 
@@ -52,8 +35,8 @@
 
 </description>
 			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-annuals/phacelia-fremontii.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-annuals/phacelia-fremontii.html</guid>
+			<link>http://localhost:4000/mojave-plants-annuals/phacelia-fremontii.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/phacelia-fremontii.html</guid>
 
 			
 
@@ -69,8 +52,8 @@
 
 </description>
 			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-annuals/phacelia-crenulata.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-annuals/phacelia-crenulata.html</guid>
+			<link>http://localhost:4000/mojave-plants-annuals/phacelia-crenulata.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/phacelia-crenulata.html</guid>
 
 			
 
@@ -86,8 +69,25 @@
 
 </description>
 			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-annuals/pectis-papposa.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-annuals/pectis-papposa.html</guid>
+			<link>http://localhost:4000/mojave-plants-annuals/pectis-papposa.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/pectis-papposa.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Nama demissum</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-annuals/nama-demissum.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/nama-demissum.html</guid>
 
 			
 
@@ -103,8 +103,8 @@
 
 </description>
 			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-annuals/malacothrix-glabrata.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-annuals/malacothrix-glabrata.html</guid>
+			<link>http://localhost:4000/mojave-plants-annuals/malacothrix-glabrata.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/malacothrix-glabrata.html</guid>
 
 			
 
@@ -120,8 +120,42 @@
 
 </description>
 			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-annuals/langloisia-setosissima.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-annuals/langloisia-setosissima.html</guid>
+			<link>http://localhost:4000/mojave-plants-annuals/langloisia-setosissima.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/langloisia-setosissima.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Johnstonella angustifolia</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-annuals/johnstonella-angustifolia.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/johnstonella-angustifolia.html</guid>
+
+			
+
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Eschscholzia californica</title>
+			<description>&lt;p&gt;The California poppy has been historically used as traditional medicine and cosmetics by some indigenous people in California, particularly those native to the regions where the plant is found. In particular, Tongva Gabrielino, Cahuilla, Costanoan, Luiseno, and Pomo have cultural and historical connections with the poppy. These connections involve traditional uses of the plant, cultural significance, and even folklore.The Tongva peoples of the San Gabriel Valley region recognized the California poppy by the term Mekachaa. Such indigenous communities interpret the Mekechaa as a plant relative, and actively resisted attempts to appropriate its existence through artistic community projects.[24] In Waa&apos;aka&apos;, the final plant created by the Tongva&apos;s god of creation, Wiyot, was the Island poppy, described as &quot;golden as the sun, bringing beauty to the world.&quot;&lt;/p&gt;
+
+</description>
+			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-plants-annuals/eschscholzia-californica.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/eschscholzia-californica.html</guid>
 
 			
 
@@ -137,42 +171,8 @@
 
 </description>
 			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-annuals/eriogonum-deflexum.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-annuals/eriogonum-deflexum.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Cryptantha barbigera</title>
-			<description>&lt;p&gt;&lt;/p&gt;
-
-</description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-perennials/cryptantha-barbigera.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-perennials/cryptantha-barbigera.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Cirsium clavatum var americanum</title>
-			<description>&lt;p&gt;&lt;/p&gt;
-
-</description>
-			<pubDate>Mon, 14 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://example.com/mojave-plants-perennials/cirsium-clavatum.html</link>
-			<guid isPermaLink="true">http://example.com/mojave-plants-perennials/cirsium-clavatum.html</guid>
+			<link>http://localhost:4000/mojave-plants-annuals/eriogonum-deflexum.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/eriogonum-deflexum.html</guid>
 
 			
 
