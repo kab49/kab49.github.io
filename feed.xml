@@ -6,20 +6,20 @@
 </description>
 	<link>http://localhost:4000/</link>
 	<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-	<pubDate>Thu, 26 Jun 2025 14:16:27 -0700</pubDate>
-	<lastBuildDate>Thu, 26 Jun 2025 14:16:27 -0700</lastBuildDate>
+	<pubDate>Mon, 14 Jul 2025 19:54:28 -0700</pubDate>
+	<lastBuildDate>Mon, 14 Jul 2025 19:54:28 -0700</lastBuildDate>
 	<generator>Jekyll v4.3.4</generator>
 
 	
 
 		<item>
-			<title>Rafinesquia neomexicana</title>
+			<title>Tramea lacerata</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-annuals/rafinesquia-neomexicana.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/rafinesquia-neomexicana.html</guid>
+			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/tramea-lacerata.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/tramea-lacerata.html</guid>
 
 			
 
@@ -30,13 +30,13 @@
 	
 
 		<item>
-			<title>Phacelia fremontii</title>
+			<title>Synchlora frondaria</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-annuals/phacelia-fremontii.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/phacelia-fremontii.html</guid>
+			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/synchlora-frondaria.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/synchlora-frondaria.html</guid>
 
 			
 
@@ -47,13 +47,13 @@
 	
 
 		<item>
-			<title>Phacelia crenulata</title>
+			<title>Sarcophaga bullata</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-annuals/phacelia-crenulata.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/phacelia-crenulata.html</guid>
+			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/sarcophaga-bullata.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/sarcophaga-bullata.html</guid>
 
 			
 
@@ -64,13 +64,49 @@
 	
 
 		<item>
-			<title>Pectis papposa</title>
-			<description>&lt;p&gt;&lt;/p&gt;
+			<title>Pachydiplax longipennis</title>
+			<description>
+&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-annuals/pectis-papposa.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/pectis-papposa.html</guid>
+			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/pachydiplax-longipennis.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/pachydiplax-longipennis.html</guid>
+
+			
+				<category>Pachydiplax</category>
+			
+				<category>longipennis,</category>
+			
+				<category>Blue</category>
+			
+				<category>Dasher,</category>
+			
+				<category>dragonfly,</category>
+			
+				<category>las</category>
+			
+				<category>vegas,</category>
+			
+				<category>insect</category>
+			
+
+			
+				<category>mojave-insects</category>
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Lygaeus kalmii</title>
+			<description>&lt;p&gt;The small milkweed bug is commonly confused with other black and red or orange insects, including Oncopeltus fasciatus, Lygaeus turcicus, and Lygaeus reclivatus.&lt;/p&gt;
+
+</description>
+			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/lygaeus-kalmii.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/lygaeus-kalmii.html</guid>
 
 			
 
@@ -81,13 +117,46 @@
 	
 
 		<item>
-			<title>Nama demissum</title>
+			<title>Libellula luctuosa</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-annuals/nama-demissum.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/nama-demissum.html</guid>
+			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/libellula-luctuosa.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/libellula-luctuosa.html</guid>
+
+			
+				<category>Libellula</category>
+			
+				<category>luctuosa,</category>
+			
+				<category>Widow</category>
+			
+				<category>Skimmer,</category>
+			
+				<category>dragonfly,</category>
+			
+				<category>las</category>
+			
+				<category>vegas</category>
+			
+
+			
+				<category>mojave-insects</category>
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Heliopetes ericetorum</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/heliopetes-ericetorum.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/heliopetes-ericetorum.html</guid>
 
 			
 
@@ -98,13 +167,13 @@
 	
 
 		<item>
-			<title>Malacothrix glabrata</title>
+			<title>Diceroprocta apache</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-annuals/malacothrix-glabrata.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/malacothrix-glabrata.html</guid>
+			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/diceroprocta-apache.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/diceroprocta-apache.html</guid>
 
 			
 
@@ -115,16 +184,18 @@
 	
 
 		<item>
-			<title>Langloisia setosissima sub. setosissima</title>
+			<title>Dasymutilla satanas</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-annuals/langloisia-setosissima.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/langloisia-setosissima.html</guid>
+			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/dasymutilla-satanas.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/dasymutilla-satanas.html</guid>
 
 			
 
+			
+				<category>mojave-insects</category>
 			
 
 		</item>
@@ -132,47 +203,13 @@
 	
 
 		<item>
-			<title>Johnstonella angustifolia</title>
+			<title>Burnsius albezens</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-annuals/johnstonella-angustifolia.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/johnstonella-angustifolia.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Eschscholzia californica</title>
-			<description>&lt;p&gt;The California poppy has been historically used as traditional medicine and cosmetics by some indigenous people in California, particularly those native to the regions where the plant is found. In particular, Tongva Gabrielino, Cahuilla, Costanoan, Luiseno, and Pomo have cultural and historical connections with the poppy. These connections involve traditional uses of the plant, cultural significance, and even folklore.The Tongva peoples of the San Gabriel Valley region recognized the California poppy by the term Mekachaa. Such indigenous communities interpret the Mekechaa as a plant relative, and actively resisted attempts to appropriate its existence through artistic community projects.[24] In Waa&apos;aka&apos;, the final plant created by the Tongva&apos;s god of creation, Wiyot, was the Island poppy, described as &quot;golden as the sun, bringing beauty to the world.&quot;&lt;/p&gt;
-
-</description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-annuals/eschscholzia-californica.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/eschscholzia-californica.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Eriogonum deflexum</title>
-			<description>&lt;p&gt;&lt;/p&gt;
-
-</description>
-			<pubDate>Tue, 15 Apr 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-plants-annuals/eriogonum-deflexum.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-plants-annuals/eriogonum-deflexum.html</guid>
+			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/burnsius-albezens.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/burnsius-albezens.html</guid>
 
 			
 
