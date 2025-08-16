@@ -6,89 +6,29 @@
 </description>
 	<link>http://localhost:4000/</link>
 	<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-	<pubDate>Mon, 14 Jul 2025 19:54:28 -0700</pubDate>
-	<lastBuildDate>Mon, 14 Jul 2025 19:54:28 -0700</lastBuildDate>
+	<pubDate>Sat, 16 Aug 2025 16:17:46 -0700</pubDate>
+	<lastBuildDate>Sat, 16 Aug 2025 16:17:46 -0700</lastBuildDate>
 	<generator>Jekyll v4.3.4</generator>
 
 	
 
 		<item>
-			<title>Tramea lacerata</title>
+			<title>Xanthomelanodes arcuatus</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/tramea-lacerata.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/tramea-lacerata.html</guid>
+			<pubDate>Fri, 16 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/xanthomelanodes-arcuatus.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/xanthomelanodes-arcuatus.html</guid>
 
 			
-
+				<category>Tachinid</category>
 			
-
-		</item>
-
-	
-
-		<item>
-			<title>Synchlora frondaria</title>
-			<description>&lt;p&gt;&lt;/p&gt;
-
-</description>
-			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/synchlora-frondaria.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/synchlora-frondaria.html</guid>
-
+				<category>Fly</category>
 			
-
+				<category>(Xanthomelanodes</category>
 			
-
-		</item>
-
-	
-
-		<item>
-			<title>Sarcophaga bullata</title>
-			<description>&lt;p&gt;&lt;/p&gt;
-
-</description>
-			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/sarcophaga-bullata.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/sarcophaga-bullata.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Pachydiplax longipennis</title>
-			<description>
-&lt;p&gt;&lt;/p&gt;
-
-</description>
-			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/pachydiplax-longipennis.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/pachydiplax-longipennis.html</guid>
-
-			
-				<category>Pachydiplax</category>
-			
-				<category>longipennis,</category>
-			
-				<category>Blue</category>
-			
-				<category>Dasher,</category>
-			
-				<category>dragonfly,</category>
-			
-				<category>las</category>
-			
-				<category>vegas,</category>
-			
-				<category>insect</category>
+				<category>arcuatus)</category>
 			
 
 			
@@ -100,45 +40,22 @@
 	
 
 		<item>
-			<title>Lygaeus kalmii</title>
-			<description>&lt;p&gt;The small milkweed bug is commonly confused with other black and red or orange insects, including Oncopeltus fasciatus, Lygaeus turcicus, and Lygaeus reclivatus.&lt;/p&gt;
-
-</description>
-			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/lygaeus-kalmii.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/lygaeus-kalmii.html</guid>
-
-			
-
-			
-
-		</item>
-
-	
-
-		<item>
-			<title>Libellula luctuosa</title>
+			<title>Vanessa atalanta</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/libellula-luctuosa.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/libellula-luctuosa.html</guid>
+			<pubDate>Fri, 16 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/vanessa-atalanta</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/vanessa-atalanta</guid>
 
 			
-				<category>Libellula</category>
+				<category>Red</category>
 			
-				<category>luctuosa,</category>
+				<category>Admiral</category>
 			
-				<category>Widow</category>
+				<category>(Vanessa</category>
 			
-				<category>Skimmer,</category>
-			
-				<category>dragonfly,</category>
-			
-				<category>las</category>
-			
-				<category>vegas</category>
+				<category>atalanta)</category>
 			
 
 			
@@ -150,16 +67,26 @@
 	
 
 		<item>
-			<title>Heliopetes ericetorum</title>
+			<title>Steniolia longirostra</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/heliopetes-ericetorum.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/heliopetes-ericetorum.html</guid>
+			<pubDate>Fri, 16 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/steniolia-longirostra.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/steniolia-longirostra.html</guid>
 
 			
+				<category>Sand</category>
+			
+				<category>Wasp</category>
+			
+				<category>(Steniolia</category>
+			
+				<category>longirostra)</category>
+			
 
+			
+				<category>mojave-insects</category>
 			
 
 		</item>
@@ -167,16 +94,28 @@
 	
 
 		<item>
-			<title>Diceroprocta apache</title>
+			<title>Stelis laticincta</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/diceroprocta-apache.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/diceroprocta-apache.html</guid>
+			<pubDate>Fri, 16 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/stelis-laticincta.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/stelis-laticincta.html</guid>
 
 			
+				<category>Wide-striped</category>
+			
+				<category>Painted-dark</category>
+			
+				<category>Bee</category>
+			
+				<category>(Stelis</category>
+			
+				<category>laticincta)</category>
+			
 
+			
+				<category>mojave-insects</category>
 			
 
 		</item>
@@ -184,13 +123,42 @@
 	
 
 		<item>
-			<title>Dasymutilla satanas</title>
+			<title>Sphex pensylvanicus</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/dasymutilla-satanas.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/dasymutilla-satanas.html</guid>
+			<pubDate>Fri, 16 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/sphex-pensylvanicus.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/sphex-pensylvanicus.html</guid>
+
+			
+				<category>Great</category>
+			
+				<category>Black</category>
+			
+				<category>Wasp</category>
+			
+				<category>(Sphex</category>
+			
+				<category>pensylvanicus)</category>
+			
+
+			
+				<category>mojave-insects</category>
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Sphex ichneumoneus</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Fri, 16 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/sphex-ichneumoneus.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/sphex-ichneumoneus.html</guid>
 
 			
 
@@ -203,16 +171,107 @@
 	
 
 		<item>
-			<title>Burnsius albezens</title>
+			<title>Sphecodes ranunculi</title>
 			<description>&lt;p&gt;&lt;/p&gt;
 
 </description>
-			<pubDate>Wed, 14 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/burnsius-albezens.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/burnsius-albezens.html</guid>
+			<pubDate>Fri, 16 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/sphecodes-ranunculi.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/sphecodes-ranunculi.html</guid>
 
 			
+				<category>Buttercup</category>
+			
+				<category>Blood</category>
+			
+				<category>Bee</category>
+			
+				<category>(Sphecodes</category>
+			
+				<category>ranunculi)</category>
+			
 
+			
+				<category>mojave-insects</category>
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Pontia beckerii</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Fri, 16 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/pontia-beckerii.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/pontia-beckerii.html</guid>
+
+			
+				<category>Becker&apos;s</category>
+			
+				<category>White</category>
+			
+				<category>(Pontia</category>
+			
+				<category>beckerii)</category>
+			
+
+			
+				<category>mojave-insects</category>
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Poecilanthrax californicus</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Fri, 16 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/poecilanthrax-californicus.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/poecilanthrax-californicus.html</guid>
+
+			
+				<category>Anthrax</category>
+			
+				<category>californicus</category>
+			
+
+			
+				<category>mojave-insects</category>
+			
+
+		</item>
+
+	
+
+		<item>
+			<title>Phormia regina</title>
+			<description>&lt;p&gt;&lt;/p&gt;
+
+</description>
+			<pubDate>Fri, 16 May 2025 00:00:00 -0700</pubDate>
+			<link>http://localhost:4000/mojave-insects/phormia-regina.html</link>
+			<guid isPermaLink="true">http://localhost:4000/mojave-insects/phormia-regina.html</guid>
+
+			
+				<category>Black</category>
+			
+				<category>Blow</category>
+			
+				<category>Fly</category>
+			
+				<category>(Phormia</category>
+			
+				<category>regina)</category>
+			
+
+			
+				<category>mojave-insects</category>
 			
 
 		</item>
