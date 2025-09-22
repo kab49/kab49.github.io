@@ -4,10 +4,10 @@
 	<title>Mojave Nature</title>
 	<description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-	<link>http://localhost:4000/</link>
-	<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-	<pubDate>Mon, 08 Sep 2025 17:49:31 -0700</pubDate>
-	<lastBuildDate>Mon, 08 Sep 2025 17:49:31 -0700</lastBuildDate>
+	<link>http://example.com/</link>
+	<atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+	<pubDate>Sun, 21 Sep 2025 17:58:31 -0700</pubDate>
+	<lastBuildDate>Sun, 21 Sep 2025 17:58:31 -0700</lastBuildDate>
 	<generator>Jekyll v4.3.4</generator>
 
 	
@@ -18,8 +18,8 @@
 
 </description>
 			<pubDate>Sat, 17 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/pontia-protodice.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/pontia-protodice.html</guid>
+			<link>http://example.com/mojave-insects/pontia-protodice.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-insects/pontia-protodice.html</guid>
 
 			
 				<category>Checkered</category>
@@ -47,8 +47,8 @@
 
 </description>
 			<pubDate>Sat, 17 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/polistes-aurifer.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/polistes-aurifer.html</guid>
+			<link>http://example.com/mojave-insects/polistes-aurifer.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-insects/polistes-aurifer.html</guid>
 
 			
 				<category>Golden</category>
@@ -76,8 +76,8 @@
 
 </description>
 			<pubDate>Sat, 17 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/periplaneta-lateralis.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/periplaneta-lateralis.html</guid>
+			<link>http://example.com/mojave-insects/periplaneta-lateralis.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-insects/periplaneta-lateralis.html</guid>
 
 			
 
@@ -95,8 +95,8 @@
 
 </description>
 			<pubDate>Sat, 17 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/megachile-lippiae.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/megachile-lippiae.html</guid>
+			<link>http://example.com/mojave-insects/megachile-lippiae.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-insects/megachile-lippiae.html</guid>
 
 			
 				<category>Lippia</category>
@@ -124,8 +124,8 @@
 
 </description>
 			<pubDate>Sat, 17 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/loxosceles-deserta.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/loxosceles-deserta.html</guid>
+			<link>http://example.com/mojave-insects/loxosceles-deserta.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-insects/loxosceles-deserta.html</guid>
 
 			
 				<category>Desert</category>
@@ -153,8 +153,8 @@
 
 </description>
 			<pubDate>Sat, 17 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/libytheana-carinenta.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/libytheana-carinenta.html</guid>
+			<link>http://example.com/mojave-insects/libytheana-carinenta.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-insects/libytheana-carinenta.html</guid>
 
 			
 				<category>American</category>
@@ -180,8 +180,8 @@
 
 </description>
 			<pubDate>Sat, 17 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/libellula-saturata.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/libellula-saturata.html</guid>
+			<link>http://example.com/mojave-insects/libellula-saturata.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-insects/libellula-saturata.html</guid>
 
 			
 				<category>Flame</category>
@@ -207,8 +207,8 @@
 
 </description>
 			<pubDate>Sat, 17 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/juriniopsis-adusta.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/juriniopsis-adusta.html</guid>
+			<link>http://example.com/mojave-insects/juriniopsis-adusta.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-insects/juriniopsis-adusta.html</guid>
 
 			
 				<category>Bristly</category>
@@ -236,8 +236,8 @@
 
 </description>
 			<pubDate>Sat, 17 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/hyles-lineata.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/hyles-lineata.html</guid>
+			<link>http://example.com/mojave-insects/hyles-lineata.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-insects/hyles-lineata.html</guid>
 
 			
 				<category>White-lined</category>
@@ -263,8 +263,8 @@
 
 </description>
 			<pubDate>Sat, 17 May 2025 00:00:00 -0700</pubDate>
-			<link>http://localhost:4000/mojave-insects/hippodamia-convergens.html</link>
-			<guid isPermaLink="true">http://localhost:4000/mojave-insects/hippodamia-convergens.html</guid>
+			<link>http://example.com/mojave-insects/hippodamia-convergens.html</link>
+			<guid isPermaLink="true">http://example.com/mojave-insects/hippodamia-convergens.html</guid>
 
 			
 				<category>Convergent</category>
